@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![01](https://github.com/oguncan/FlutterHoroscopeApp/blob/master/HoroscopeApp/01.png)
-![02](https://github.com/oguncan/FlutterHoroscopeApp/blob/master/HoroscopeApp/02.png)
-![03](https://github.com/oguncan/FlutterHoroscopeApp/blob/master/HoroscopeApp/03.png)
+![01](https://github.com/oguncan/FlutterHoroscopeApp/blob/master/horoscopeApp/01.png)
+![02](https://github.com/oguncan/FlutterHoroscopeApp/blob/master/horoscopeApp/02.png)
+![03](https://github.com/oguncan/FlutterHoroscopeApp/blob/master/horoscopeApp/03.png)
